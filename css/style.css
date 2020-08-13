@@ -17,6 +17,10 @@
     font-family: 'RalwaySB';
     src : url('../fonts/Raleway-SemiBold.ttf');
 }
+
+@media only screen and (max-width: 400px){
+    .search{width:300px}
+}
 /*
 	Ion by TEMPLATED
 	templated.co @templatedco
